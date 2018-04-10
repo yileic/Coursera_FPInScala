@@ -1,0 +1,16 @@
+scala> val groups = (1 to 20).toList groupBy {      | case i if(i<5) => "g1"      | case i if(i<10) => "g2"      | case i if(i<15) => "g3"      | case _ => "g4"      | }
+val groups = (1 to 20).toList groupBy {      | case i if(i<5) => "g1"      | case i if(i<10) => "g2"      | case i if(i<15) => "g3"      | case _ => "g4"      | }
+scala> val groups = (1 to 20).toList groupBy {
+     | case i if(i<5) => "g1"
+     | case i if(i<10) => "g2"
+     | case i if(i<15) => "g3"
+     | case _ => "g4"
+val groups = (1 to 20).toList groupBy {
+     | case i if(i<5) => "g1"
+     | case i if(i<10) => "g2"
+     | case i if(i<15) => "g3"
+     | case _ => "g4"
+val t = 3
+t=3
+scala
+submit caiyilei3@gmail.com Bk3J6m97oPrbxPmu

@@ -1,0 +1,326 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package$.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> /Users/ycai/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> /Users/ycai/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> common.package
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$mergeCodeTables$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+180 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> ::
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> <init>
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> ?0
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> A
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Any
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> B
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Boolean
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Class
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> File
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Function2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> List
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> None
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Object
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Option
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Predef
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> Some
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> String
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> URI
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> URL
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> _root_
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> child
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> children
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> common
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> exists
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> file
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> getClass
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> getResource
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> io
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> java
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> package
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> scala
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> subFile
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> toURI
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> A
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Array
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> B
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> CanBuildFrom
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Code
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Coll
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> GenTraversableOnce
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> K
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> That
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> Unit
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> code
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> decodedSecret
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> f
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> filter
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> first
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> groupBy
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> isSingleton
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> length
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> list
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> lookup
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> prepend
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> print
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> remaining
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> second
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> t
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+22 items
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$mergeCodeTables$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1522719587000)
+/Users/ycai/Desktop/ScalaCourse/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1522719587000)
+source stamps:
+2 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> hash(e15de654f1df4b1f03c19fea4549037596caff48)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
+/Users/ycai/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ycai/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction4
+internal apis:
+2 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKJKNd0dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy95Y2FpL0Rlc2t0b3AvU2NhbGFDb3Vyc2UvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwigp+wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABBc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMQg9EPnQABENvZGVzcQB+AAxnJV5jdAAMYXNJbnN0YW5jZU9mc3EAfgAMmcIySXQADHN5bmNocm9uaXplZHNxAH4ADDOC3Zh0AARsZWZ0c3EAfgAMLz8moXQADSRpc0luc3RhbmNlT2ZzcQB+AAzkbWOYdAAGdHVwbGVkc3EAfgAMIunUx3QAB0h1ZmZtYW5zcQB+AAyvM+DVdAAIY2FuRXF1YWxzcQB+AAzcuCqZdAAOY29weSRkZWZhdWx0JDRzcQB+AAxEMQS/dAAEbWFpbnNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADJL0+TR0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAxA6ECUdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMEvSivXQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADEvPZ+Z0AAYkaW5pdCRzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAMX9xEyHQADHN0cmluZzJDaGFyc3NxAH4ADNRg4Op0AAh0b1N0cmluZ3NxAH4ADI6HD+d0AAlzaW5nbGV0b25zcQB+AAzai14tdAACIT1zcQB+AAyiLWWqdAAIZ2V0Q2xhc3NzcQB+AAwaC9rBdAAJQ29kZVRhYmxlc3EAfgAMR2D433QADmNyZWF0ZUNvZGVUcmVlc3EAfgAMRfJBNnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMkk1yOnQABEZvcmtzcQB+AAwlxqCSdAADQml0c3EAfgAMspD1b3QAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAzgqY7xdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AmUwACWluaGVyaXRlZHEAfgCZTAAHcGFyZW50c3EAfgCZeHEAfgC2c3EAfgCxdXEAfgCUAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCacQB+AKN1cQB+AKQAAAAAc3EAfgCmAHEAfgA7dXEAfgCpAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AvnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4ArHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AxVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AtXNxAH4AxHQABUFycmF5cQB+AMp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AxHQABlN0cmluZ3NxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANB0AARqYXZhc3EAfgDQdAAEbGFuZ3EAfgDVc3EAfgCxdXEAfgCUAAAAAHNxAH4AsXVxAH4A6QAAAAJzcQB+AMR0AAZPYmplY3RxAH4A7XNxAH4AxHQAA0FueXEAfgDKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiiSjXdHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMveWNhaS9EZXNrdG9wL1NjYWxhQ291cnNlL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4V3mVPHfSx8DwZ/qRUkDdZbK/0g=
+external apis:
+0 items
+source infos:
+2 items
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/ycai/Desktop/ScalaCourse/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAQAAAQAAAHIAESAgICB0cmVlcyBtYXRjaCB7AQAADjUBAAAABAEABCAgICABAEovVXNlcnMveWNhaS9EZXNrdG9wL1NjYWxhQ291cnNlL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQEASi9Vc2Vycy95Y2FpL0Rlc2t0b3AvU2NhbGFDb3Vyc2UvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAFBtYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dHM6IExpc3QoXyksIE5pbAEAAAAA
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoko13R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy95Y2FpL0Rlc2t0b3AvU2NhbGFDb3Vyc2UvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
